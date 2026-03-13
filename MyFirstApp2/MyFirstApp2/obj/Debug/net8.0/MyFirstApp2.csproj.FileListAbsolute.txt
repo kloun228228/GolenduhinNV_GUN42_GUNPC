@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\MyFirstApp2\MyFirstApp2\bin\Debug\net8.0\MyFirstApp2.exe
+C:\Users\User\source\repos\MyFirstApp2\MyFirstApp2\bin\Debug\net8.0\MyFirstApp2.deps.json
+C:\Users\User\source\repos\MyFirstApp2\MyFirstApp2\bin\Debug\net8.0\MyFirstApp2.runtimeconfig.json
+C:\Users\User\source\repos\MyFirstApp2\MyFirstApp2\bin\Debug\net8.0\MyFirstApp2.dll
+C:\Users\User\source\repos\MyFirstApp2\MyFirstApp2\bin\Debug\net8.0\MyFirstApp2.pdb
+C:\Users\User\source\repos\MyFirstApp2\MyFirstApp2\obj\Debug\net8.0\MyFirstApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MyFirstApp2\MyFirstApp2\obj\Debug\net8.0\MyFirstApp2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MyFirstApp2\MyFirstApp2\obj\Debug\net8.0\MyFirstApp2.AssemblyInfo.cs
+C:\Users\User\source\repos\MyFirstApp2\MyFirstApp2\obj\Debug\net8.0\MyFirstApp2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MyFirstApp2\MyFirstApp2\obj\Debug\net8.0\MyFirstApp2.dll
+C:\Users\User\source\repos\MyFirstApp2\MyFirstApp2\obj\Debug\net8.0\refint\MyFirstApp2.dll
+C:\Users\User\source\repos\MyFirstApp2\MyFirstApp2\obj\Debug\net8.0\MyFirstApp2.pdb
+C:\Users\User\source\repos\MyFirstApp2\MyFirstApp2\obj\Debug\net8.0\MyFirstApp2.genruntimeconfig.cache
+C:\Users\User\source\repos\MyFirstApp2\MyFirstApp2\obj\Debug\net8.0\ref\MyFirstApp2.dll
