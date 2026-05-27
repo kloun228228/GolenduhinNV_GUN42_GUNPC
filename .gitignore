@@ -7,4 +7,12 @@
 /[U|u]ser[S|s]ettings/
 *.csproj
 *.sln
-
+/[Pp]ackages/
+![Pp]ackages/manifest.json
+![Pp]ackages/packages-lock.json
+/[Aa]ssets/Plugins/Zenject/OptionalExtras/UnitTests/
+/[Aa]ssets/Plugins/Zenject/OptionalExtras/UnitTests.meta
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Builds]/
